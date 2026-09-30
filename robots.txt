@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amiroyottt.github.io/sitemap.xml
